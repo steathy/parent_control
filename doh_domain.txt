@@ -6,7 +6,6 @@
 
 0.0.0.0 adult-filter-dns.cleanbrowsing.org
 0.0.0.0 chrome.cloudflare-dns.com
-0.0.0.0 dns.nextdns.io
 0.0.0.0 dns0.eu
 0.0.0.0 doh.tiar.app
 0.0.0.0 doh.nl.ahadns.net
