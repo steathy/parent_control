@@ -1,0 +1,10 @@
+# This doh domain file is maintained by steathy@github 
+# You are free to copy and distribute this file for non-commercial uses,
+# as long the original URL and attribution is included
+
+# Last updated: 12/25/2024
+
+0.0.0.0 jp-free-01.protonvpn.net
+0.0.0.0 nl-free-01.protonvpn.net
+0.0.0.0 us-free-01.protonvpn.net
+0.0.0.0 protonvpn.net
