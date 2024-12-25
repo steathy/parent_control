@@ -47,7 +47,6 @@
 0.0.0.0 freedns.controld.com
 0.0.0.0 dns.nextdns.io
 0.0.0.0 doh.opendns.com
-0.0.0.0 doh.opendns.com
 0.0.0.0 pluton.plan9-dns.com
 0.0.0.0 anycast.uncensoreddns.org
 0.0.0.0 doh-de.blahdns.com
@@ -60,7 +59,6 @@
 0.0.0.0 doh.tiarap.org
 0.0.0.0 dns11.quad9.net
 0.0.0.0 per.adfilter.net
-0.0.0.0 doh.ffmuc.net
 0.0.0.0 doh.ffmuc.net
 0.0.0.0 dns.digitale-gesellschaft.ch
 0.0.0.0 base.dns.mullvad.net
@@ -92,7 +90,6 @@
 0.0.0.0 doh.tiarap.org
 0.0.0.0 dnsse-noads.alekberg.net
 0.0.0.0 doh.la.ahadns.net
-0.0.0.0 dns.aa.net.uk
 0.0.0.0 dns.aa.net.uk
 0.0.0.0 adl.adfilter.net
 0.0.0.0 unicast.uncensoreddns.org
