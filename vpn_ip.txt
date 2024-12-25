@@ -1,0 +1,23 @@
+# This doh domain file is maintained by steathy@github 
+# You are free to copy and distribute this file for non-commercial uses,
+# as long the original URL and attribution is included
+
+# Last updated: 12/25/2024
+
+138.199.0.0/16
+185.0.0.0/16
+169.150.0.0/16
+89.0.0.0/16
+109.236.81.0/16
+46.166.182.0/16
+45.14.0.0/16
+190.2.0.0/16
+212.102.0.0/16
+77.247.0.0/16
+212.8.0.0/16
+149.34.0.0/16
+93.190.0.0/16
+217.23.0.0/16
+146.70.0.0/16
+195.181.0.0/16
+37.19.0.0/16
