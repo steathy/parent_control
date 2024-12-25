@@ -8,3 +8,11 @@
 0.0.0.0 nl-free-01.protonvpn.net
 0.0.0.0 us-free-01.protonvpn.net
 0.0.0.0 protonvpn.net
+0.0.0.0 windscribe.com
+0.0.0.0 tunnelbear.com
+0.0.0.0 hide.me
+0.0.0.0 privadovpn.com
+0.0.0.0 hotspotshield.com
+0.0.0.0 speedify.com
+0.0.0.0 avira.com/en/free-vpn
+0.0.0.0 kaspersky.com/free-vpn
