@@ -2,7 +2,7 @@
 # You are free to copy and distribute this file for non-commercial uses,
 # as long the original URL and attribution is included
 
-# Last updated: 12/25/2024
+# Last updated: 12/30/2024
 
 138.199.0.0/16
 185.0.0.0/16
@@ -21,3 +21,4 @@
 146.70.0.0/16
 195.181.0.0/16
 37.19.0.0/16
+193.148.16.0/24
